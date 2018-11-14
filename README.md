@@ -1,6 +1,6 @@
 # SVG Tutorial
 <sup>Author: Jessica Sellers</sup>
 
-Purpose: This tutorial will show people how to create a basic webpage in HTML5/CSS that contains SVG (Scalable Vector Graphics)
+<strong>Purpose:</strong> This tutorial will show people how to create a basic webpage in HTML5/CSS that contains SVG (Scalable Vector Graphics)
 
-Target Audience: Anyone that has a very basic understanding of web development and coding
+<strong>Target Audience:</strong> Anyone that has a very basic understanding of web development and coding
