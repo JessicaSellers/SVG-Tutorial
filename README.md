@@ -24,5 +24,35 @@ These are:
   * ```<head>``` which defines information about the document
   * ```<title>``` which defines a title for the document
   * ```<meta>``` which describes metadata within an HTML document
+  * ```<style>``` which defines style information for an HTML document
   * ```<body>``` which defines the documents body (where the content is)
+  
+Below I have demonstrated the basic layout of an HTML document:
+
+``` 
+<!DOCTYPE html>
+ <html>
+  <head>
+    <title>SVG Tutorial</title>  
+    <meta charset="UTF-8">
+   
+   <style>
+   
+   /* Where the SVG will be styled */
+    
+   </style> 
+   
+  </head>
+
+  <body>
+   
+   Where the SVG will go...
+  
+  </body>
+
+</html>
+
+```
+
+
   
