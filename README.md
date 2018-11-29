@@ -31,25 +31,20 @@ Below I have demonstrated the basic layout of an HTML document:
 
 ``` 
 <!DOCTYPE html>
- <html>
-  <head>
-    <title>SVG Tutorial</title>  
-    <meta charset="UTF-8">
+  <html>
+    <head>
+      
+      <title>SVG Tutorial</title>  
+      <meta charset="UTF-8">
    
-   <style>
+     <style>   
+       /* Where the SVG will be styled */   
+     </style> 
    
-   /* Where the SVG will be styled */
-    
-   </style> 
-   
-  </head>
-
-  <body>
-   
-   Where the SVG will go...
-  
-  </body>
-
+    </head>  
+   <body>  
+      Where the SVG will go...  
+    </body>
 </html>
 
 ```
