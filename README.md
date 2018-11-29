@@ -19,10 +19,10 @@ Now open Brackets or whatever code editor you are using and create a new file na
 We will now populate the _SVG.html_ file that you created with the basic HTML tags. 
 
 These are:
-  * <!DOCTYPE html> which defines the document type
-  * <html> which defines the root of an HTML document
-  * <head> which defines information about the document
-  * <title> which defines a title for the document
-  * <meta> which describes metadata within an HTML document
-  * <body> which defines the documents body (where the content is)
+  * ``` <!DOCTYPE html> ```which defines the document type
+  * ``` <html> ```which defines the root of an HTML document
+  * ```<head>``` which defines information about the document
+  * ```<title>``` which defines a title for the document
+  * ```<meta>``` which describes metadata within an HTML document
+  * ```<body>``` which defines the documents body (where the content is)
   
