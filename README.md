@@ -52,7 +52,7 @@ Below I have demonstrated the basic layout of an HTML document:
 ```
 <strong>Part 3: Creating the SVG</strong>
 
-For this example I am going to create 5 SVG
+For this example I am going to create 5 SVG:
  1. A Rectangle
  2. An Ellipse
  3. A Polyline
