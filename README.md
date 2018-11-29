@@ -50,6 +50,7 @@ Below I have demonstrated the basic layout of an HTML document:
 </html>
 
 ```
+<strong>Part 3: Creating the SVG</strong>
 
 
   
