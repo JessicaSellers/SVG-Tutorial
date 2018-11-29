@@ -42,9 +42,11 @@ Below I have demonstrated the basic layout of an HTML document:
      </style> 
    
     </head>  
+   
    <body>  
       Where the SVG will go...  
-    </body>
+   </body>
+
 </html>
 
 ```
