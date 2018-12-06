@@ -95,7 +95,28 @@ In this example we declare the size of the svg in the <svg> element. Then we cre
 </html>
 
 ```
- In this example I created 7 different ellipses and placed them on top of one another making them the color of the rainbow. I again created an <svg> element that declared the size of the svg and then created 7 <ellipse> elements inside. The cx and cy attributes define what the x and y coordinates are at the center of the ellipse. Then the rx and ry elements define what the horizontal and vertical radiuses are.
+In this example I created 7 different ellipses and placed them on top of one another making them the color of the rainbow. I again created an <svg> element that declared the size of the svg and then created 7 <ellipse> elements inside. The cx and cy attributes define what the x and y coordinates are at the center of the ellipse. Then the rx and ry elements define what the horizontal and vertical radiuses are.
+ 
+#### Example 3. Text
+
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="400" width="400">
+  <text x="10" y="20" transform="rotate(60 30,40)" style="fill:navy;">An SVG
+    <tspan x="10" y="35">made out of</tspan>
+    <tspan x="10" y="50">TEXT.</tspan>
+    <tspan x="10" y="65">How Crazy!</tspan>
+  </text>
+   Your browser does not support the beautiful SVG that is trying to be displayed.
+</svg>
+ 
+</body>
+</html>
+```
+In this exmaple I used similar techniques from before but used the <text> element to display text. In order to display multiple lines of text I used the <tspan> element using the x and y attributes to control 
  
  
 
