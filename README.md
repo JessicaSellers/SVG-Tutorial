@@ -8,13 +8,13 @@
 
 
 ## Tutorial
-<strong>Part 1: Getting Started</strong> 
+### Part 1: Getting Started
 
 First you will need to create a very basic webpage. For this you may want to download a code editor if you do not already have one. I suggest Brackets, you can download it [here.](http://brackets.io/)
 
 Now open Brackets or whatever code editor you are using and create a new file named _SVG.html_
 
-<strong>Part 2: Adding HTML Tags</strong> 
+### Part 2: Adding HTML Tags 
 
 We will now populate the _SVG.html_ file that you created with the basic HTML tags. 
 
@@ -50,14 +50,29 @@ Below I have demonstrated the basic layout of an HTML document:
 </html>
 
 ```
-<strong>Part 3: Creating the SVG</strong>
+### Part 3: Creating the SVG
 
-For this example I am going to create 5 SVG:
- 1. A Rectangle 
- 2. An Ellipse 
- 3. A Polyline
- 4. A Path
- 5. Text
+For this example I am going to create 3 SVG:
+ 1. An Ellipse 
+ 2. A Polygon
+ 3. Text
+
+#### Example 2. A Polygon
+ ```
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="250" width="500">
+  <polygon points="130,40 500,90 250,100 123,210" style="fill:LightSteelBlue;stroke:LightSlateGrey;stroke-width:2" />
+  Sorry, your browser does not support inline SVG.
+</svg>
+
+</body>
+</html>
+```
+ 
+ 
  
 
   
