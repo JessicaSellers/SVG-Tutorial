@@ -53,11 +53,12 @@ Below I have demonstrated the basic layout of an HTML document:
 ### Part 3: Creating the SVG
 
 For this example I am going to create 3 SVG:
- 1. An Ellipse 
- 2. A Polygon
+ 1. A Polygon 
+ 2. Rainbow Ellipses
  3. Text
 
-#### Example 2. A Polygon
+
+#### Example 1. A Polygon
  ```
 <!DOCTYPE html>
 <html>
@@ -70,6 +71,28 @@ For this example I am going to create 3 SVG:
 
 </body>
 </html>
+```
+
+#### Example 1. Rainbow Ellipses
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="800" width="1200">
+  <ellipse cx="320" cy="200" rx="340" ry="70" style="fill:red" />
+  <ellipse cx="300" cy="180" rx="310" ry="60" style="fill:orange" />
+  <ellipse cx="280" cy="150" rx="280" ry="50" style="fill:yellow" />
+  <ellipse cx="260" cy="130" rx="250" ry="40" style="fill:green" />
+  <ellipse cx="240" cy="100" rx="220" ry="30" style="fill:blue" />
+  <ellipse cx="220" cy="70" rx="190" ry="20" style="fill:indigo" />
+  <ellipse cx="210" cy="45" rx="170" ry="15" style="fill:violet" />
+  Sorry, your browser does not support inline SVG. 
+</svg>
+
+</body>
+</html>
+
 ```
  
  
