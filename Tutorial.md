@@ -1,4 +1,4 @@
-## Tutorial
+# Tutorial
 ### Part 1: Getting Started
 
 First you will need to create a very basic webpage. For this you may want to download a code editor if you do not already have one. I suggest Brackets, you can download it [here.](http://brackets.io/)
@@ -113,6 +113,6 @@ There are so many different possibilities with SVG, way more than I was able to 
 
 I have also uploaded my html file to this repository [here]() if you want to see exactly how my SVG webpage turned out.
 
-[Back to ReadMe]()
+[Back to ReadMe](https://github.com/JessicaSellers/SVG-Tutorial/blob/master/README.md)
 
 ### Happy Coding!
