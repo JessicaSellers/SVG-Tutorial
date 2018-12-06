@@ -38,7 +38,7 @@ Below I have demonstrated the basic layout of an HTML document:
       <meta charset="UTF-8">
    
      <style>   
-       /* Where the SVG will be styled */   
+       /* Where CSS usually goes */   
      </style> 
    
     </head>  
