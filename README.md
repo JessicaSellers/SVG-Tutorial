@@ -66,14 +66,15 @@ For this example I am going to create 3 SVG:
 
 <svg height="250" width="500">
   <polygon points="130,40 500,90 250,100 123,210" style="fill:LightSteelBlue;stroke:LightSlateGrey;stroke-width:2" />
-  Sorry, your browser does not support inline SVG.
+  I'm afraid your browser does not support SVG.
 </svg>
 
 </body>
 </html>
 ```
+In this example we declare the size of the svg in the <svg> element. Then we create a <polygon> element inside and use inline CSS to style it. The points attribute also inside the <polygon> element says what the x and y coordinates for each point are equal to. I added the text "I'm afraid your browser does not support SVG" as an error message so that if the SVG does not appear this error message does instead because not all browsers support SVG. Play around with this SVG, add more points if you would like and create your own polygon. 
 
-#### Example 1. Rainbow Ellipses
+#### Example 2. Rainbow Ellipses
 ```
 <!DOCTYPE html>
 <html>
@@ -87,14 +88,14 @@ For this example I am going to create 3 SVG:
   <ellipse cx="240" cy="100" rx="220" ry="30" style="fill:blue" />
   <ellipse cx="220" cy="70" rx="190" ry="20" style="fill:indigo" />
   <ellipse cx="210" cy="45" rx="170" ry="15" style="fill:violet" />
-  Sorry, your browser does not support inline SVG. 
+  I'm sorry to tell you that your browser does not support SVG. 
 </svg>
 
 </body>
 </html>
 
 ```
- 
+ In this example I created 7 different ellipses and placed them on top of one another making them the color of the rainbow. I again created an <svg> element that declared the size of the svg and then created 7 <ellipse> elements inside. The cx and cy attributes define what the x and y coordinates are at the center of the ellipse. Then the rx and ry elements define what the horizontal and vertical radiuses are.
  
  
 
