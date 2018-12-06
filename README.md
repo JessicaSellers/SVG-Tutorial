@@ -116,7 +116,13 @@ In this example I created 7 different ellipses and placed them on top of one ano
 </body>
 </html>
 ```
-In this exmaple I used similar techniques from before but used the <text> element to display text. In order to display multiple lines of text I used the <tspan> element using the x and y attributes to control 
+In this example I used similar techniques from before but used the <text> element to display text. In order to display multiple lines of text I used the <tspan> element using the x and y attributes to control the x and y coordinates. I also used the transform attribute to rotate the text 60 degrees. 
+ 
+There are so many different possibilities with SVG, way more than I was able to show you in this tutorial. So if you do want to learn more about SVG and all of the different graphics you can make, I recommend clicking [here](https://www.w3schools.com/graphics/svg_intro.asp) and learning more about SVG from w3schools, one of my favorite web development resources.
+
+I have also uploaded my html file to this repository [here]() if you want to see exactly how my SVG webpage turned out.
+
+### Happy Coding!
  
  
 
