@@ -5,5 +5,5 @@
 
 <strong>Target Audience:</strong> Anyone that has a very basic understanding of web development and coding
 
-Go to the [Tutorial](.../blob/master/Tutorial.md)
+Go to the [Tutorial](https://github.com/JessicaSellers/SVG-Tutorial/blob/master/Tutorial.md)
   
