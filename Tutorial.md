@@ -113,6 +113,6 @@ There are so many different possibilities with SVG, way more than I was able to 
 
 I have also uploaded my html file to this repository [here]() if you want to see exactly how my SVG webpage turned out.
 
-[Back to ReadMe](../blob/master/README.md)
+[Back to ReadMe](https://github.com/JessicaSellers/SVG-Tutorial/blob/master/README.md)
 
 ### Happy Coding!
